@@ -1,0 +1,1 @@
+<span>notonmywatch - Loaded in : <?php echo round(microtime(true) - $now, 2).'s'?></span>
